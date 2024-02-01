@@ -11,4 +11,4 @@ O objetivo dessa atividade é implementar uma calculadora a bateria. Se há bate
 - Se for tentada divisão por zero, deve ser notificado o erro.
 
 ## Diagrama
-(https://raw.githubusercontent.com/qxcodepoo/arcade/master/base/001/diagrama.png)
+![Diagrama](https://github.com/deboravians/exerciciosPOO/assets/107967364/dec1659d-b088-41df-a011-29430116280c)
