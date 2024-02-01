@@ -20,3 +20,6 @@ Seu sistema deverá:
   - Caso haja pelo menos uma pessoa no carro e algum combustível, ele deve gastar combustível andando e aumentar a quilometragem.
   - Nosso carro faz um quilômetro por litro de combustível.
   - Caso não exista combustível suficiente para completar a viagem inteira, dirija o que for possível e emita uma mensagem indicando quanto foi percorrido.
+
+## Diagrama
+![Diagrama](https://github.com/deboravians/exerciciosPOO/assets/107967364/b6534dd8-a3c9-47f9-88b8-84c88871433f)
