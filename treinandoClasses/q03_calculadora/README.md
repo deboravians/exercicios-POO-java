@@ -9,3 +9,6 @@ O objetivo dessa atividade é implementar uma calculadora a bateria. Se há bate
 - Realizar operações matemáticas de soma e divisão.
 - Se o usuário tentar realizar operações e a bateria estiver vazia, deverá ser mostrada uma notificação sobre falta de bateria.
 - Se for tentada divisão por zero, deve ser notificado o erro.
+
+## Diagrama
+(https://raw.githubusercontent.com/qxcodepoo/arcade/master/base/001/diagrama.png)
