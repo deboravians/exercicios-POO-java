@@ -12,3 +12,6 @@ O objetivo dessa atividade é implementar um animal que passa pelas diversas fas
    - 2: adulto. Faz barulho normal.
    - 3: idoso. Faz barulho normal.
   -  4: morto. Não faz mais barulho RIP.
+
+## Diagrama
+![Diagrama](https://github.com/deboravians/exerciciosPOO/assets/107967364/83a2dafb-ec84-419d-a06e-d0e042ecb7c1)
