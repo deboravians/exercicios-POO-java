@@ -30,3 +30,4 @@ Seu sistema deverá ser capaz de:
   - Quando o cliente pedir o troco, mostre o quanto ele tinha de saldo e zere o saldo.
     
 ## Diagrama
+![Diagrama](https://github.com/deboravians/exercicios-POO-java/blob/main/arrayList-ii/q12_junkfood/diagrama.png)
